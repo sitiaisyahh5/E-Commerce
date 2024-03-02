@@ -1,0 +1,10 @@
+Pertanyaan Bisnis
+- Produk mana yang paling banyak terjual? Bagaimana keuntungan dari produk yang paling banyak terjual dibandingkan dengan produk lainnya?
+- Jenis pembayaran apa yang paling sering digunakan berdasarkan lokasi geografis? 
+- Lokasi geografis mana yang memiliki jumlah pelanggan dan pengeluaran terbanyak? 
+- 
+
+Grafik yang digunakan
+- maps
+- histogram
+- tabel
